@@ -1,3 +1,14 @@
+**Patched version of Proton to fix Thrustmaster wheels in RaceRoom Racing Experience and probably other titles.**
+
+see https://github.com/MmAaXx500/proton-ge-custom/commit/e0d0c90cd669b37891e0d8ffe892402ac438869b,
+https://github.com/MmAaXx500/proton-ge-custom/releases/tag/tm-rrre-patches-v1
+and the upstream wine change https://gitlab.winehq.org/wine/wine/-/merge_requests/10052
+
+I am patching vanilla Proton instead of Proton-GE because I had trouble getting VR to work with the latter.
+This will probably end up in Proton eventually.
+
+
+
 Introduction
 ------------
 
